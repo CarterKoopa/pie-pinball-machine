@@ -1,4 +1,4 @@
-22350008492786411
+22358501984767518
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92239,9 +92239,44 @@ varistor
 2
 2
 carter_kicad_footprints
-RaspberryPiPico_SC0915
+DIP16-2.54-19.2X7.62MM
+
+
+0
+16
+16
+carter_kicad_footprints
+DIP787
+
+
+0
+28
+28
+carter_kicad_footprints
+RaspberryPiPico_SC0915_1
 
 
 0
 53
 53
+carter_kicad_footprints
+TO-220_STM
+
+VNP20N07-E 
+0
+3
+3
+carter_terminal_blocks_fp
+Terminal_01x02_1935161
+
+
+0
+2
+2
+carter_terminal_blocks_fp
+Terminal_01x03_ 1935174
+
+1935174 
+0
+3
+3
