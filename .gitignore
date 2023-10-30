@@ -161,3 +161,8 @@ cython_debug/
 
 # KiCAD unwanted files
 *-backusp
+PIE-Pinabll-KiCAD/PIE-Pinabll-KiCAD-backups/*
+*.lck
+
+# Mac DS_Store metadata files
+.DS_Store
