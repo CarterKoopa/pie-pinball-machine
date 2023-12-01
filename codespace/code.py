@@ -7,7 +7,6 @@ from adafruit_motor import servo
 from adafruit_mcp230xx.mcp23017 import MCP23017
 import adafruit_mcp3xxx.mcp3008 as MCP3
 from adafruit_mcp3xxx.analog_in import AnalogIn
-import adafruit_character_lcd.character_lcd_i2c as character_lcd
 import adafruit_tlc5947
 
 # Define Pins
