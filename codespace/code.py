@@ -99,7 +99,7 @@ time.sleep(0.1)
 for i in range(19):
     led_tlc[i] = 4095
 
-# Code for using rollovers to calculate score
+# Code to calculate score
 score = 0
 while True:
     for i,ldr in enumerate(ldr_adcs):
