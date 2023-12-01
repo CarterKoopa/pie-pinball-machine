@@ -3,18 +3,12 @@ import digitalio
 import pwmio
 import time
 import board
-import random
 from adafruit_motor import servo
 from adafruit_mcp230xx.mcp23017 import MCP23017
 import adafruit_mcp3xxx.mcp3008 as MCP3
 from adafruit_mcp3xxx.analog_in import AnalogIn
 import adafruit_character_lcd.character_lcd_i2c as character_lcd
-import sdcardio
-import storage
 import adafruit_tlc5947
-import audiomp3
-import audiomixer
-import audiobusio
 
 # Define Pins
 FL_0 = board.GP0    # Flipper Left
